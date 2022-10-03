@@ -50,8 +50,8 @@ To-do list:
 
 ## Status
 
-Project is: _finished_
+Project is: _started_
 
 ## Contact
 
-Created by tiagovalentim@gmail.com - feel free to contact me!
+tiagovalentim@gmail.com - feel free to contact me!
