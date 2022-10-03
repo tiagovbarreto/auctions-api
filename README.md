@@ -1,6 +1,6 @@
 # Auctions Microservices
 
-An application for sell tickets.
+An application to manage auctions.
 
 ## Table of contents
 
