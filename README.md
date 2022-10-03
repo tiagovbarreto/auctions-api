@@ -19,7 +19,7 @@ The intention of doing this project was to understand how to develop an api base
 
 List of features ready and TODOs for future development
 
-- Auth0
+- Auth
 - Create Auction
 - Search Auction
 - Search Auction by Id
@@ -41,11 +41,12 @@ To-do list:
 - AWS SES - https://aws.amazon.com/ses/
 - AWS SQS - https://aws.amazon.com/sqs/
 - AWS S3 - https://aws.amazon.com/s3/
+- AWS EventBrige - https://aws.amazon.com/eventbridge/
 - Auth0 - https://auth0.com/
 
 ## Architecture
 
-![architecture](./diagrams/ticketing-architecture-overview.png)
+![architecture](./diagrams/auctions-app-architecture.png)
 
 ## Status
 
