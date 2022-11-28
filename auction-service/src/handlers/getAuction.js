@@ -18,7 +18,7 @@ export async function getAuctionById(id) {
 
     auction = result.Item;
   } catch (error) {
-    console.log(error);
+    console.log(error + 'y');
     throw new createError.InternalError(error);
   }
 

@@ -27,7 +27,7 @@ async function getAuctions(event, context) {
     const result = await dynamodb.query(params).promise();
     auctions = result.Items;
   } catch (error) {
-    console.log(error);
+    console.log(error + 'y');
     throw new createError.InternalError(error);
   }
 
